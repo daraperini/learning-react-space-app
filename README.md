@@ -1,31 +1,40 @@
-# Portfolio - Alura
+# SpaceApp
 
-Hello! Welcome to my first Front-end project. It consists in an portfolio created during the Alura's degree *From scratch: HTML and CSS for Web Projects*.
+SpaceApp was created during Alura's class *React: Styles Components and static files manipulation*. This is a Vite project and I used Styled Components throughout it's development. It was created from scratch so I was able to apply HTML, CSS, JS and React knowledges while developing it.
 
-To see the final result, click [here](https://portfolio-alura-ecru-two.vercel.app/).
+As the focus of the project was using Styled Components the components where developed and programmed to be used only with stactical components.
+
+The project has a responsive design so go and test it in the tablet and mobile sizes :)
 
 ## Used tools:
 
-* HTML
-* CSS
-* Flexbox
-
-*(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
-
-#
-
-# Portfólio - Alura
-
-Olá! Bem vindo ao meu primeiro projeto Front-end. Ele consiste em um portfólio criado durante a formação *A partir do zero: HTML e CSS para projetos Web*, da Alura.
-
-Para acessar o resultado final da página, clique [aqui](https://portfolio-alura-ecru-two.vercel.app/).
-
-## Ferramentas utilizadas:
-
 * React
+* HTML
 * JavaScript
 * Styled Components
 
+*(Alura is a Brazilian technology school and for acessibility reasons this code is in Portuguese)*
+
+> To see the final layout click [here](https://space-app-teal.vercel.app/) but the images will not load. I suggest you follow the next steps:
+
+Clone the repository to visualize the project correctly:
+
+## Initializing the project on your computer
+
+- Clone the repository using the command line:
+    - git clone *link of the repository*
+    - cd *file of the repository*
+ 
+- You can also download the zip file
+- Unzip it
+    - cd *name of the file*
+ 
+- Run the code:
+    - npm install (to install all project's dependencies)
+    - npm start
+    - Copy and paste the Local link in your browser (to open the project)
+
+#
 
 # SpaceApp
 
@@ -38,6 +47,7 @@ O design é totalmente responsivo, então teste no tamanho tablet e mobile para 
 ## Ferramentas utilizadas:
 
 * React
+* HTML
 * JavaScript
 * Styled Components
 
@@ -59,4 +69,3 @@ Para visualizar o projeto corretamente, baixe o repositório:
     - npm install (para instalar as dependências do projeto)
     - npm start 
     - Copie o link Local e cole no seu navegador (para abrir o projeto)
-
