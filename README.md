@@ -6,7 +6,9 @@ O projeto foi desenvolvido com foco na aplicação do Styled Components. Portant
 
 O design é totalmente responsivo, então teste no tamanho tablet e celular para ver as diferenças de layout :)
 
-Para visualizar o projeto, baixe o repositório:
+> Você pode visualizar o layout clicando [aqui](https://space-app-teal.vercel.app/) mas as imagens não carregarão. Indico que siga os próximos passos:
+
+Para visualizar o projeto corretamente, baixe o repositório:
 
 ## Iniciando o projeto na sua máquina
 
