@@ -1,26 +1,26 @@
 [
     {
-      "path": "/src/assets/populares/foto-1.png",
+      "path": "/public/assets/populares/foto-1.png",
       "alt": "galáxia",
       "id": 1
     },
     {
-      "path": "/src/assets/populares/foto-2.png",
+      "path": "/public/assets/populares/foto-2.png",
       "alt": "lua",
       "id": 2
     },
     {
-      "path": "/src/assets/populares/foto-3.png",
+      "path": "/public/assets/populares/foto-3.png",
       "alt": "terra",
       "id": 3
     },
     {
-      "path": "/src/assets/populares/foto-4.png",
+      "path": "/public/assets/populares/foto-4.png",
       "alt": "nuvem",
       "id": 4
     },
     {
-      "path": "/src/assets/populares/foto-5.png",
+      "path": "/public/assets/populares/foto-5.png",
       "alt": "meteoro",
       "id": 5
     }
