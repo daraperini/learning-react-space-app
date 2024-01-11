@@ -31,7 +31,7 @@ Clone the repository to visualize the project correctly:
  
 - Run the code:
     - npm install (to install all project's dependencies)
-    - npm start
+    - npm run dev
     - Copy and paste the Local link in your browser (to open the project)
 
 #
@@ -67,5 +67,5 @@ Para visualizar o projeto corretamente, baixe o repositório:
  
 - Rode o código na sua máquina:
     - npm install (para instalar as dependências do projeto)
-    - npm start 
+    - npm run dev 
     - Copie o link Local e cole no seu navegador (para abrir o projeto)
